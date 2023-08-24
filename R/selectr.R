@@ -3,7 +3,7 @@
 #' selects a subset of columns
 #'
 #' @param df a dataframe
-#' @param x a vector of numeric indice(s) or character string(s)
+#' @param x a vector of numeric indice(s), character string(s) or logicals
 #'
 #' @return returns a data frame with a subset of columns
 #'
@@ -22,3 +22,4 @@
 selectr <- function(df,var){
   df[var]
 }
+

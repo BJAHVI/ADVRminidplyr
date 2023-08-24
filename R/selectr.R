@@ -3,7 +3,7 @@
 #' selects a subset of columns
 #'
 #' @param df a dataframe
-#' @param x a vector of numeric indice(s), character string(s) or logicals
+#' @param var a vector of numeric indice(s), character string(s) or logicals
 #'
 #' @return returns a data frame with a subset of columns
 #'

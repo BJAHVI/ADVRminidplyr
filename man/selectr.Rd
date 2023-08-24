@@ -9,7 +9,7 @@ selectr(df, var)
 \arguments{
 \item{df}{a dataframe}
 
-\item{x}{a vector of numeric indice(s), character string(s) or logicals}
+\item{var}{a vector of numeric indice(s), character string(s) or logicals}
 }
 \value{
 returns a data frame with a subset of columns

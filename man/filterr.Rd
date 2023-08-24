@@ -3,16 +3,21 @@
 \name{filterr}
 \alias{filterr}
 \title{filterr
-description}
+Doesn't do anything yet}
 \usage{
 filterr(df, var, test)
 }
 \arguments{
-\item{df}{}
+\item{df}{a dataframe}
 
-\item{test}{}
+\item{var}{a variable}
+
+\item{test}{a test}
+}
+\value{
+something some day
 }
 \description{
 filterr
-description
+Doesn't do anything yet
 }
